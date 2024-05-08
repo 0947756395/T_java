@@ -31,6 +31,10 @@ public class Account_V2{
 	{
 		return balance;
 	}
+	public double getBalance()
+	{
+		return balance;
+	}
 	// method that sets the name
 	public void setName(String name)
 	{
